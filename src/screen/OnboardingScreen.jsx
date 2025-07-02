@@ -16,7 +16,7 @@ const onboardingData = [
   {
     id: '1',
     title: 'Trusted by millions',
-    description: 'of people part of one part',
+    description: 'of people part of safety platform',
     image: require('../assets/on1.png'),
   },
   {
