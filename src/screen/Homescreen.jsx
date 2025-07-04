@@ -220,6 +220,7 @@ const styles = StyleSheet.create({
     paddingVertical: 14,
     borderBottomWidth: 1,
     borderBottomColor: '#eee',
+    marginBottom:12,
   },
   menuIcon: {
     fontSize: 20,
